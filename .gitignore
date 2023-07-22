@@ -1,0 +1,4 @@
+/node_modules
+/urlshortner/node_modules
+
+.env
